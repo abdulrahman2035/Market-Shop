@@ -1,0 +1,177 @@
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\ApplicationInsights.config
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\roslyn\csc.exe
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\roslyn\System.Collections.Immutable.dll
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\roslyn\System.Reflection.Metadata.dll
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\roslyn\vbc.exe
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\roslyn\VBCSCompiler.exe
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\roslyn\VBCSCompiler.exe.config
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\Marketshop.dll.config
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\Marketshop.dll
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\Marketshop.pdb
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\Antlr3.Runtime.dll
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\EntityFramework.dll
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\EntityFramework.SqlServer.dll
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\Microsoft.AI.Agent.Intercept.dll
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\Microsoft.AI.DependencyCollector.dll
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\Microsoft.AI.Web.dll
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\Microsoft.AI.WindowsServer.dll
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\Microsoft.ApplicationInsights.dll
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\Microsoft.AspNet.Identity.Core.dll
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\Microsoft.Owin.dll
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\Microsoft.Owin.Security.Cookies.dll
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\Microsoft.Owin.Security.dll
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\Microsoft.Owin.Security.Facebook.dll
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\Microsoft.Owin.Security.Google.dll
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\Microsoft.Owin.Security.OAuth.dll
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\Microsoft.Owin.Security.Twitter.dll
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\Microsoft.Web.Infrastructure.dll
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\Newtonsoft.Json.dll
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\Owin.dll
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\System.Web.Helpers.dll
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\System.Web.Mvc.dll
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\System.Web.Optimization.dll
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\System.Web.Razor.dll
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\System.Web.WebPages.Deployment.dll
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\System.Web.WebPages.dll
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\System.Web.WebPages.Razor.dll
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\WebGrease.dll
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\Microsoft.AI.DependencyCollector.xml
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\Microsoft.AI.Web.xml
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\Microsoft.AI.WindowsServer.xml
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\Microsoft.ApplicationInsights.xml
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\System.Web.Helpers.xml
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\System.Web.Mvc.xml
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\System.Web.Optimization.xml
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\System.Web.Razor.xml
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\System.Web.WebPages.xml
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\System.Web.WebPages.Deployment.xml
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\System.Web.WebPages.Razor.xml
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\Antlr3.Runtime.pdb
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\Newtonsoft.Json.xml
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\EntityFramework.xml
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\EntityFramework.SqlServer.xml
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\Microsoft.AspNet.Identity.Core.xml
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\Microsoft.Owin.xml
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\Microsoft.Owin.Security.xml
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\Microsoft.Owin.Security.Facebook.xml
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\Microsoft.Owin.Security.Cookies.xml
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\Microsoft.Owin.Security.OAuth.xml
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\Microsoft.Owin.Security.Google.xml
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\Microsoft.Owin.Security.Twitter.xml
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\obj\Debug\Marketshop.dll
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\obj\Debug\Marketshop.pdb
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\obj\Debug\Marketshop.Migrations.Country.resources
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\obj\Debug\Marketshop.csproj.GenerateResource.Cache
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\obj\Debug\Marketshop.Migrations.Country1.resources
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\obj\Debug\Marketshop.Migrations.City.resources
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\obj\Debug\Marketshop.Migrations.City1.resources
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\obj\Debug\Marketshop.Migrations.Category.resources
+E:\citystarit\level4\trprojectforlevel4\Marketshop\Marketshop\obj\Debug\Marketshop.Migrations.Product.resources
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\ApplicationInsights.config
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\roslyn\csc.exe
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\roslyn\vbc.exe
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\Marketshop.dll.config
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\Marketshop.dll
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\Marketshop.pdb
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\Antlr3.Runtime.dll
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\EntityFramework.dll
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\Microsoft.AI.Web.dll
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\Microsoft.Owin.dll
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\Newtonsoft.Json.dll
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\Owin.dll
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\System.Web.Helpers.dll
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\System.Web.Mvc.dll
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\System.Web.Optimization.dll
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\System.Web.Razor.dll
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\System.Web.WebPages.dll
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\WebGrease.dll
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\Microsoft.AI.Web.xml
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\Microsoft.ApplicationInsights.xml
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\System.Web.Helpers.xml
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\System.Web.Mvc.xml
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\System.Web.Optimization.xml
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\System.Web.Razor.xml
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\System.Web.WebPages.xml
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\Antlr3.Runtime.pdb
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\Newtonsoft.Json.xml
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\EntityFramework.xml
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\Microsoft.Owin.xml
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\obj\Debug\Marketshop.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\obj\Debug\Marketshop.Migrations.Country.resources
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\obj\Debug\Marketshop.Migrations.Country1.resources
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\obj\Debug\Marketshop.Migrations.City.resources
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\obj\Debug\Marketshop.Migrations.City1.resources
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\obj\Debug\Marketshop.Migrations.Category.resources
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\obj\Debug\Marketshop.Migrations.Product.resources
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\obj\Debug\Marketshop.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\obj\Debug\Marketshop.dll
+C:\Users\user\Documents\Tutorials\citystarit\قبل الصلاحيات\Marketshop\Marketshop\obj\Debug\Marketshop.pdb

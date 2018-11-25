@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Category>
+
+@{
+    ViewBag.Title = "category";
+    Layout = "~/Views/Shared/_LayouthomePage.cshtml";
+}
+
+<h2>category</h2>
+
+
+<div class="row">
+
+    @foreach (var item in Model)
+    {
+
+
+
+        <div class="col-md-4">
+            <h2> <a href="/home/Products/@item.id">  @item.Name </a> </h2>
+            <p>
+                <img width="300" height="200" src="~/Upload/@item.Image" />
+            </p>
+            <p><a class="btn btn-default" href="/Home/products/@item.id"> Shop Now  &raquo;</a></p>
+        </div>
+
+
+
+
+
+    }
+
+
+</div>
